@@ -65,6 +65,7 @@ SmartHire Backend is a microservices-based job portal application developed usin
 ## Project Structure
 
 
+```text
 SmartHire-Backend
 ├── eureka-server
 ├── api-gateway
@@ -72,6 +73,7 @@ SmartHire-Backend
 ├── smarthire-user-service
 ├── smarthire-job-service
 └── smarthire-application-service
+```
 
 
 ## How to Run
